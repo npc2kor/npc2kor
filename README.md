@@ -1,8 +1,7 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, This is Ram Prasad Narayanan</h1>
 <h3 align="left">An experienced Cloud Architect with 12+ years of expertise in designing and implementing end-to-end cloud data ecosystems, data pipelines, and DevOps solutions. Skilled in Azure cloud platforms, serverless architectures, and CI/CD, I help global enterprises drive scalable, data-driven transformations.</h3>
 
-**Key skills include:**
+## Key skills include:
 
  - Cloud Platforms: Azure/AWS - Compute, Storage and AI/ML suite of services
  - Programming: Python, SQL, Pyspark, FastAPI
